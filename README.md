@@ -28,6 +28,10 @@ The device can connect into a secure http connection.
 
 You can run your server in the cloud, as long as the device can access the API points it works well.
 
+[![Watch the video](https://img.youtube.com/vi/8GJlIzKESlA/maxresdefault.jpg)](https://youtu.be/8GJlIzKESlA)
+
+### [Watch this video on YouTube](https://youtu.be/8GJlIzKESlA)
+
 ## Check API for Data to Send
 
 ### http://10.10.10.13:8181/checkSMSSendQueue
