@@ -33,7 +33,8 @@ public class MainActivity extends AppCompatActivity implements MessageListenerIn
 
     // To setup this application you need the phone number, an API End points to send SMS Messages that have been received and one to poll for outbound messages
     // as well as an API key
-    public static String phoneNumber = "+15105045395";
+    public static String phoneNumber = "+151055047976";
+    //public static String phoneNumber = "+15105045395";
     private static final String API_QUERY_SMS = "http://10.10.10.13:8181/checkSMSSendQueue";
     public static final String API_RECEIVED_SMS = "http://10.10.10.13:8181/receivedSMS";
     private static String apiKey = "xxyyzz";

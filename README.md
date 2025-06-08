@@ -32,6 +32,25 @@ You can run your server in the cloud, as long as the device can access the API p
 
 ### [Watch this video on YouTube](https://youtu.be/8GJlIzKESlA)
 
+## Device Setup
+
+Make sure you have a plan for the device for unlimited text messages
+
+### Setup Developer Mode
+
+Go to Settings -> About phone -> Build number
+
+- Click Build Number 7 times, you should see a message about being in developer mode.
+- Enter Device PIN
+
+### Setup ADB debugging
+
+Go to Settings -> System -> Developer Options -> Enable USB Debugging
+
+### Setup Stay Awake
+
+Go to Settings -> System -> Developer Options -> Stay Awake
+
 ## Check API for Data to Send
 
 ### http://10.10.10.13:8181/checkSMSSendQueue
